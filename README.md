@@ -1,11 +1,16 @@
-Clone o repositório:
 
+COMO EXECUTAR
+
+1-Clone o repositório:
 git clone https://github.com/andresilvacaldas/atividade_anima-o.git
-Navegue até o diretório do projeto:
 
+2-Navegue até o diretório do projeto:
 cd neopixel_pio.c
-Abra o projeto no VS Code:
 
-Compile o projeto, ou carregue o código diretamente no Raspberry Pi Pico W.
+3-Abra o projeto no VS Code:
 
-Execute o código e interaja com as animações disponíveis
+4-Compile o projeto, ou carregue o código diretamente no Raspberry Pi Pico W.
+
+5-Execute o código e interaja com as animações disponíveis.
+
+6-Certifique-se que esta com todas configurações necessárias para o funcionamento do código.

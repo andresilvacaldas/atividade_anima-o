@@ -14,3 +14,5 @@ cd neopixel_pio.c
 5-Execute o código e interaja com as animações disponíveis.
 
 6-Certifique-se que esta com todas configurações necessárias para o funcionamento do código.
+
+VÍDEO DA PLACA : https://youtu.be/wd-PP5tCDmk
